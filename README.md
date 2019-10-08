@@ -1,3 +1,8 @@
-Welcome to Ajax Testing
+# Ajax Testing
 
-Tables and Pagination applied
+Welcome to Ajax Testing.  Tables and Pagination are applied.
+
+## Technologies
+
+* HTML5
+* JavaScript
